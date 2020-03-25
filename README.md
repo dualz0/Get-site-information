@@ -20,18 +20,18 @@
 <h3><a id="If_you_use_Google_Chrome_12"></a>If you use Google Chrome</h3>
 <ol>
 <li>在谷歌浏览器地址栏输入 chrome://extensions/</li>
-<li>![](https://raw.githubusercontent.com/dualz0/img-storage/master/site-info-readme-1.png)  <br>
+<li>![](https://github.com/dualz0/img-storage/blob/master/site-info-readme-1.png?raw=true)  <br>
   点击【加载解压缩的拓展】</li>
-<li>![](https://raw.githubusercontent.com/dualz0/img-storage/master/site-info-readme-3.png)  <br>
+<li>![](https://github.com/dualz0/img-storage/blob/master/site-info-readme-3.png?raw=true)  <br>
   选中【site_info】文件夹</li>
 <li>回到普通网页，点击拓展图标即可使用</li>
 </ol>
 <h3><a id="If_you_use_Microsoft_Edge_19"></a>If you use Microsoft Edge</h3>
 <ol>
 <li>在地址栏输入edge://extensions</li>
-<li>![](https://raw.githubusercontent.com/dualz0/img-storage/master/site-info-readme-2.png)  <br>
+<li>![](https://github.com/dualz0/img-storage/blob/master/site-info-readme-2.png?raw=true)  <br>
   点击【加载解压缩的拓展】</li> 
-<li>![](https://raw.githubusercontent.com/dualz0/img-storage/master/site-info-readme-3.png)  <br>
+<li>![](https://github.com/dualz0/img-storage/blob/master/site-info-readme-3.png?raw=true)  <br>
   选中【site_info】文件夹</li>
 <li>回到普通网页，点击拓展图标即可使用</li>
 </ol>
