@@ -8,12 +8,18 @@ A chrome extension to get significant information of the current site. Click bro
 ![show](https://github.com/dualz0/img-storage/blob/master/site-info-readme.png)
 
 ## Instructions
+### If you use Google Chrome
+在谷歌浏览器地址栏输入 chrome://extensions/ </br>
+![show](https://github.com/dualz0/img-storage/blob/master/site-info-readme-4.png) </br>
+点击【加载解压缩的拓展】 </br>
+![show](https://github.com/dualz0/img-storage/blob/master/site-info-readme-3.png) </br>
+选中【site_info】文件夹 </br>
+回到普通网页，点击拓展图标即可使用
 
-在谷歌浏览器地址栏输入edge://extensions/
-![show](https://github.com/dualz0/img-storage/blob/master/site-info-readme-2.png)
-点击【加载解压缩的拓展】
-
-![show](https://github.com/dualz0/img-storage/blob/master/site-info-readme-3.png)
-选中【site_info】文件夹
-
+### If you use Microsoft Edge
+在地址栏输入edge://extensions </br>
+![show](https://github.com/dualz0/img-storage/blob/master/site-info-readme-2.png) </br>
+点击【加载解压缩的拓展】 </br>
+![show](https://github.com/dualz0/img-storage/blob/master/site-info-readme-3.png) </br>
+选中【site_info】文件夹 </br>
 回到普通网页，点击拓展图标即可使用
