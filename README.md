@@ -11,11 +11,11 @@ A chrome extension to get significant information of the current site. Click bro
 ### If you use Google Chrome
 1. 在谷歌浏览器地址栏输入 chrome://extensions/ </br>
 </br>
-![show](https://github.com/dualz0/img-storage/blob/master/site-info-readme-4.png) </br>
+![show](https://github.com/dualz0/img-storage/blob/master/site-info-readme-4.png)
 </br>
 2. 点击【加载解压缩的拓展】 </br>
 </br>
-![show](https://github.com/dualz0/img-storage/blob/master/site-info-readme-3.png) </br>
+![show](https://github.com/dualz0/img-storage/blob/master/site-info-readme-3.png)
 </br>
 3. 选中【site_info】文件夹 </br>
 </br>
@@ -25,11 +25,11 @@ A chrome extension to get significant information of the current site. Click bro
 ### If you use Microsoft Edge
 1. 在地址栏输入edge://extensions </br>
 </br>
-![show](https://github.com/dualz0/img-storage/blob/master/site-info-readme-2.png) </br>
+![show](https://github.com/dualz0/img-storage/blob/master/site-info-readme-2.png)
 </br>
 2. 点击【加载解压缩的拓展】 </br>
 </br>
-![show](https://github.com/dualz0/img-storage/blob/master/site-info-readme-3.png) </br>
+![show](https://github.com/dualz0/img-storage/blob/master/site-info-readme-3.png)
 </br>
 3. 选中【site_info】文件夹 </br>
 </br>
