@@ -4,7 +4,6 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Get-site-information</title>
   <link rel="stylesheet" href="https://stackedit.io/style.css" />
 </head>
 
@@ -14,25 +13,32 @@
 <h2><a id="About_3"></a>About</h2>
 <p>A chrome extension to get significant information of the current site. Click browser action icon to get “[web title](web address)”, so you can copy and paste it to your markdown editor conveniently.</p>
 <p>点击拓展图标，浏览器会以markdown语法弹出当前网页的标题和地址，直接复制，整理网页更方便。</p>
-<p>效果展示：<br>
-![show](https://raw.githubusercontent.com/dualz0/img-storage/master/site-info-readme-4.png)   </p>
+<p>效果展示：<br></p>
+<img src="https://github.com/dualz0/img-storage/blob/master/site-info-readme-1.png?raw=true"> 
 <h2><a id="Instructions_11"></a>Instructions</h2>
 <h3><a id="If_you_use_Google_Chrome_12"></a>If you use Google Chrome</h3>
 <ol>
-<li>在谷歌浏览器地址栏输入 chrome://extensions/</li>
-<li>![](https://github.com/dualz0/img-storage/blob/master/site-info-readme-1.png?raw=true)  <br>
-  点击【加载解压缩的拓展】</li>
-<li>![](https://github.com/dualz0/img-storage/blob/master/site-info-readme-3.png?raw=true)  <br>
-  选中【site_info】文件夹</li>
+<li>在谷歌浏览器地址栏输入 chrome://extensions/<br></li>
+  <br>
+<li>点击【加载解压缩的拓展】<br>
+  <img src="https://github.com/dualz0/img-storage/blob/master/site-info-readme-4.png?raw=true"> <br></li>
+  <br>
+<li>选中【site_info】文件夹<br>
+  <img src="https://github.com/dualz0/img-storage/blob/master/site-info-readme-3.png?raw=true"> <br>
+  </li>
+  <br>
 <li>回到普通网页，点击拓展图标即可使用</li>
 </ol>
 <h3><a id="If_you_use_Microsoft_Edge_19"></a>If you use Microsoft Edge</h3>
 <ol>
-<li>在地址栏输入edge://extensions</li>
-<li>![](https://github.com/dualz0/img-storage/blob/master/site-info-readme-2.png?raw=true)  <br>
-  点击【加载解压缩的拓展】</li> 
-<li>![](https://github.com/dualz0/img-storage/blob/master/site-info-readme-3.png?raw=true)  <br>
-  选中【site_info】文件夹</li>
+<li>在地址栏输入edge://extensions</li> <br>
+<li>点击【加载解压缩的拓展】<br>
+  <img src="https://github.com/dualz0/img-storage/blob/master/site-info-readme-2.png?raw=true"> <br>
+  </li> 
+   <br>
+<li>选中【site_info】文件夹<br>
+  <img src="https://github.com/dualz0/img-storage/blob/master/site-info-readme-3.png?raw=true"> </li>
+   <br>
 <li>回到普通网页，点击拓展图标即可使用</li>
 </ol>
 </div>
